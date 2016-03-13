@@ -7,10 +7,9 @@ This is the repository for the Shiny app "ShinyHastings", which was designed to 
 The repository contains the following files:
 * **README.md**, this readme file
 * **shiny-hastings.pdf**, a paper describing theoretical background and implementational details to ShinyHasitings
-* **/shiny-hastings**, the directory containing the Shiny code to run the program
-* **/shiny-hastings/server.R**, the file containing the server side of the program
-* **/shiny-hastings/ui.R**, the file containing the user interface of the program
-* **/shiny-hastings/helper.R**, the helper file containing the actual implementation of the MH algorithms
+* **server.R**, the file containing the server side of the program
+* **ui.R**, the file containing the user interface of the program
+* **helper.R**, the helper file containing the actual implementation of the MH algorithms
 
 ## ShinyHastings Description & Usage
 
@@ -26,4 +25,4 @@ More detailed information may be found in the article on this site.
 
 In order to run the app, please download the code or type the following to your R console:
 
-  tests
+    runGitHub("zweiss/ShinyHastings")
