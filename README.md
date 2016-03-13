@@ -23,3 +23,7 @@ In order to start a sampling process, the "Approximate target!" button on the al
 Before starting a process, the user may choose a proposal type as well as the tuning parameters specific to it. S/He may also adjust sampling duration in terms of chain and iteration number and burn-in size as well as the target distribution to approximate.
 
 More detailed information may be found in the article on this site.
+
+In order to run the app, please download the code or type the following to your R console:
+
+  tests
