@@ -20,7 +20,7 @@ It consists of two panels: a settings panel to the left or at the top of the pag
 Each panel has separate tabs, further structuring the application based on functionality. While the result panel displays a separate tab for each of the offered statistics and convergence measures, the settings panel consits of three tabs: one to set the algorithm settings, one to set the experiment settings and one containing short instructions on how to handle the app.
 
 In order to start a sampling process, the "Approximate target!" button on the algroithm settings tab needs to be clicked.
-Before starting a process, the user may choose a proposal type as well as the tuning parameters specific to it. S/He may also adjust sampling duration in terms of chain and iteration number and burn-in size as well as the target distribution to approximate.
+Before starting a process, the user may choose a proposal type as well as the tuning parameters specific to it. He or she may also adjust sampling duration in terms of chain and iteration number and burn-in size as well as the target distribution to approximate.
 
 More detailed information may be found in the article on this site.
 
